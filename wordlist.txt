@@ -6,6 +6,7 @@ immondizia
 antenna parabolica
 blatta
 pennarello
+vela
 termosifone
 molla
 rigore
