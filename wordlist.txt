@@ -8,6 +8,7 @@ pennarello
 termosifone
 molla
 rigore
+ruggine
 patata
 discord
 leccare
