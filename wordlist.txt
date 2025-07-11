@@ -9,6 +9,7 @@ pennarello
 vela
 Surf
 colonna
+aereo  di carta
 termosifone
 molla
 rigore
